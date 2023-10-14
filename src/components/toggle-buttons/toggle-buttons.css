@@ -43,7 +43,7 @@
     right: -1px;
     bottom: -1px;
     left: -1px;
-    border: 1px solid $looks-secondary;
+    border: 1px solid $menu-primary;
 }
 
 /* round corners for first and last buttons */
@@ -75,7 +75,7 @@
 /* pressed button styling */
 
 .button:active {
-    background-color: $looks-transparent;
+    background-color: $menu-transparent;
 }
 
 /* disabled styling */

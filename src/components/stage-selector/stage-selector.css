@@ -26,12 +26,12 @@ $header-height: calc($stage-menu-height - 2px);
 .stage-selector.is-selected {
     border-top-left-radius: .625rem;
     border-top-right-radius: .625rem;
-    border-color: $looks-secondary;
-    box-shadow: 0px 0px 0px 4px $looks-transparent;
+    border-color: $menu-primary;
+    box-shadow: 0px 0px 0px 4px $menu-transparent;
 }
 
 .stage-selector:hover {
-    border-color: $looks-secondary;
+    border-color: $menu-primary;
 }
 
 .header {
@@ -60,7 +60,7 @@ $header-height: calc($stage-menu-height - 2px);
 }
 
 .stage-selector.is-selected .header {
-    background-color: $looks-secondary;
+    background-color: $menu-primary;
 }
 
 .stage-selector.is-selected .header-title {

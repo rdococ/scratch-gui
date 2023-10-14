@@ -4,6 +4,11 @@ $ui-tertiary: hsla(215, 50%, 90%, 1); /* #D9E3F2 */
 
 $ui-modal-overlay: hsla(215, 100%, 65%, 0.9); /* 90% transparent version of motion-primary */
 
+$menu-primary: hsla(215, 60%, 50%, 1); /* #3373CC */
+$menu-transparent: hsla(215, 60%, 50%, 0.35); /* 35% transparent(?) version of menu-primary */
+$menu-light-transparent: hsla(215, 60%, 50%, 0.35);
+$menu-primary-dark: hsla(215, 60%, 50%, 0.35);
+
 $ui-white: hsla(0, 100%, 100%, 1); /* #FFFFFF */
 $ui-white-dim: hsla(0, 100%, 100%, 0.75); /* 25% transparent version of ui-white */
 $ui-white-transparent: hsla(0, 100%, 100%, 0.25); /* 25% transparent version of ui-white */
