@@ -1,71 +1,71 @@
 const blockColors = {
     motion: {
-        primary: '#4A6CD4',
-        secondary: '#3e5bb4',
-        tertiary: '#364e9a',
-        quaternary: '#364e9a'
+        primary: "#4A6CD4",
+        secondary: "#4261BE",
+        tertiary: "#3B56A9",
+        quaternary: "#3B56A9"
     },
     looks: {
-        primary: '#8A55D7',
-        secondary: '#7548b6',
-        tertiary: '#643e9c',
-        quaternary: '#643e9c'
+        primary: "#8A55D7",
+        secondary: "#7C4CC1",
+        tertiary: "#6E44AC",
+        quaternary: "#6E44AC"
     },
     sounds: {
-        primary: '#BB42C3',
-        secondary: '#9e38a5',
-        tertiary: '#88308e',
-        quaternary: '#88308e'
+        primary: "#BB42C3",
+        secondary: "#A83BAF",
+        tertiary: "#95349C",
+        quaternary: "#95349C"
     },
     control: {
-        primary: '#E1A91A',
-        secondary: '#bf8f16',
-        tertiary: '#a47b12',
-        quaternary: '#a47b12'
+        primary: "#E1A91A",
+        secondary: "#CA9817",
+        tertiary: "#B48714",
+        quaternary: "#B48714"
     },
     event: {
-        primary: '#C88330',
-        secondary: '#aa6f28',
-        tertiary: '#925f23',
-        quaternary: '#925f23'
+        primary: "#C88330",
+        secondary: "#B4752B",
+        tertiary: "#A06826",
+        quaternary: "#A06826"
     },
     sensing: {
-        primary: '#2CA5E2',
-        secondary: '#258cc0',
-        tertiary: '#2078a4',
-        quaternary: '#2078a4'
+        primary: "#2CA5E2",
+        secondary: "#2794CB",
+        tertiary: "#2384B4",
+        quaternary: "#2384B4"
     },
     pen: {
-        primary: '#0E9A6C',
-        secondary: '#0b825b',
-        tertiary: '#0a704e',
-        quaternary: '#0a704e'
+        primary: "#0E9A6C",
+        secondary: "#0C8A61",
+        tertiary: "#0B7B56",
+        quaternary: "#0B7B56"
     },
     operators: {
-        primary: '#5CB712',
-        secondary: '#4e9b0f',
-        tertiary: '#43850d',
-        quaternary: '#43850d'
+        primary: "#5CB712",
+        secondary: "#52A410",
+        tertiary: "#49920E",
+        quaternary: "#49920E"
     },
     data: {
-        primary: '#EE7D16',
-        secondary: '#ca6a12',
-        tertiary: '#ad5b10',
-        quaternary: '#ad5b10'
+        primary: "#EE7D16",
+        secondary: "#D67013",
+        tertiary: "#BE6411",
+        quaternary: "#BE6411"
     },
     // This is not a new category, but rather for differentiation
     // between lists and scalar variables.
     data_lists: {
-        primary: '#CC5B22',
-        secondary: '#ad4d1c',
-        tertiary: '#944218',
-        quaternary: '#944218'
+        primary: "#CC5B22",
+        secondary: "#B7511E",
+        tertiary: "#A3481B",
+        quaternary: "#A3481B"
     },
     more: {
-        primary: '#632D99',
-        secondary: '#542682',
-        tertiary: '#48206f',
-        quaternary: '#48206f'
+        primary: "#632D99",
+        secondary: "#592889",
+        tertiary: "#4F247A",
+        quaternary: "#4F247A"
     },
     text: '#FFFFFF',
     workspace: '#F9F9F9',
